@@ -3,6 +3,6 @@ class Etudiant{
     private double moyenne;
     private double note;
     private String xi3ar = "3axa lmalik";
-    public String lastname = "BenLaden";
+    public String lastname = "Hitler";
 
 }
