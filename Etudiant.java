@@ -4,4 +4,5 @@ class Etudiant{
     private int note;
     private double note;
     private String mamamamam = "3axa lmalik";
+    private String tagtag = "ahmed";
 }
