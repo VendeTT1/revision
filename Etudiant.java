@@ -3,5 +3,5 @@ class Etudiant{
     private double moyenne;
     private int note;
     private double note;
-    private String xi3ar = "3axa lmalik";
+    private String mamamamam = "3axa lmalik";
 }
